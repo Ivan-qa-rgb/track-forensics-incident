@@ -1,4 +1,4 @@
-# track-forensics-incident
+# Track-forensics-incident
 
 DFIR case study — судебная экспертиза инцидента на рабочей станции компании «Х».
 
